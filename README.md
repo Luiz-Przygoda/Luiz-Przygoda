@@ -18,7 +18,7 @@
 ## ✨ Sobre mim
 
 🎓 Estudante de Ciência da Computação (5º semestre)   
-🧠 Interessado em desenvolvimento web 
+🧠 Interessado em desenvolvimento web e full-stack
 
 ---
 
@@ -40,16 +40,12 @@
 
 ---
 
-## 📈 Meu GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavoreis&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoreis&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Przygoda&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Przygoda&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
-
-## 🐍 Snake eating my contributions
 
 <div align="center">
   <img src="https://github.com/Luiz-Przygoda/Luiz-Przygoda/blob/output/github-contribution-grid-snake.svg" />
