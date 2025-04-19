@@ -1,5 +1,5 @@
 <h1>Olá, eu sou o Luiz Gustavo! 👨‍💻</h1>
-
+---
 <p align="center">
   Desenvolvedor em formação, apaixonado por tecnologia, design de interfaces e projetos com propósito.
 </p>
