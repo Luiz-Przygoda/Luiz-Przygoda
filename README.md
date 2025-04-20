@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <img src="https://Luiz-Przygoda.github.io/snake.svg" />
+  <img src="https://luiz-przygoda.github.io/snake.svg" />
 </div>
 
 ---
