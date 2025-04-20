@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Luiz-Przygoda/Luiz-Przygoda/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://luiz-przygoda.github.io/github-contribution-grid-snake.svg" />
 </div>
 
 ---
