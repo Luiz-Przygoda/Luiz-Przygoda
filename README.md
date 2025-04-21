@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Luiz Gustavo! 👨‍💻</h1>
+<h1>Olá, eu sou o Luiz Gustavo! | Hi there, i'm Luiz Gustavo 👨‍💻</h1>
 
 <p align="center">
   Desenvolvedor em formação, apaixonado por tecnologia, design de interfaces e projetos com propósito.
@@ -43,12 +43,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Przygoda&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Przygoda&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://luiz-przygoda.github.io/snake.svg" />
 </div>
 
 ---
