@@ -17,7 +17,7 @@
 
 ## ✨ Sobre mim
 
-🎓 Estudante de Ciência da Computação (5º semestre)   
+🎓 Estudante de Ciência da Computação (6º semestre)   
 🧠 Interessado em desenvolvimento web e full-stack
 
 ---
